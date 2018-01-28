@@ -19,7 +19,7 @@ Platform assembly: Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\M
 Loading Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.121 seconds
+- Completed reload, in  0.173 seconds
 Platform assembly: Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\System.dll (this message is harmless)
 desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
@@ -28,27 +28,114 @@ desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
 <RI> Touch support initialization failed: Call not implemented.
 .
 WARNING: BC6H/BC7 texture format is not supported, decompressing texture
-UnloadTime: 3.314100 ms
+UnloadTime: 51.759998 ms
 Setting up 1 worker threads for Enlighten.
   Thread -> id: a -> priority: 1 
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
 WARNING: BC6H/BC7 texture format is not supported, decompressing texture
-UnloadTime: 8.546499 ms
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 92.371796 ms
 
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 397.
-Total: 1.181700 ms (FindLiveObjects: 0.070100 ms CreateObjectMapping: 0.045000 ms MarkObjects: 0.955300 ms  DeleteObjects: 0.107600 ms)
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 11.498301 ms (FindLiveObjects: 0.273900 ms CreateObjectMapping: 0.056400 ms MarkObjects: 11.035701 ms  DeleteObjects: 0.128000 ms)
+
+Panel (4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Panel (4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Panel (4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Panel (4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Panel (4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 WARNING: BC6H/BC7 texture format is not supported, decompressing texture
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.585400 ms
+UnloadTime: 19.208099 ms
 
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 625.
-Total: 1.795400 ms (FindLiveObjects: 0.076100 ms CreateObjectMapping: 0.048900 ms MarkObjects: 1.597200 ms  DeleteObjects: 0.069000 ms)
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 630.
+Total: 3.488500 ms (FindLiveObjects: 0.124600 ms CreateObjectMapping: 0.050700 ms MarkObjects: 3.151400 ms  DeleteObjects: 0.157900 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
 WARNING: BC6H/BC7 texture format is not supported, decompressing texture
-UnloadTime: 5.351300 ms
+UnloadTime: 11.355400 ms
 
-Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 297.
-Total: 1.008600 ms (FindLiveObjects: 0.074400 ms CreateObjectMapping: 0.045700 ms MarkObjects: 0.787700 ms  DeleteObjects: 0.096700 ms)
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 2.674900 ms (FindLiveObjects: 0.069700 ms CreateObjectMapping: 0.029200 ms MarkObjects: 2.437400 ms  DeleteObjects: 0.134400 ms)
+
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 48.495800 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 10.145600 ms (FindLiveObjects: 0.085500 ms CreateObjectMapping: 0.069100 ms MarkObjects: 8.409700 ms  DeleteObjects: 1.576700 ms)
+
+Panel (4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Panel (4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Panel (4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.845200 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 4.138600 ms (FindLiveObjects: 0.361200 ms CreateObjectMapping: 0.053800 ms MarkObjects: 3.546400 ms  DeleteObjects: 0.173100 ms)
+
+Panel (4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Panel (4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Panel (4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Panel (4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Panel (4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.873800 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 645.
+Total: 4.562300 ms (FindLiveObjects: 0.152900 ms CreateObjectMapping: 0.082100 ms MarkObjects: 4.197800 ms  DeleteObjects: 0.125100 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 2.907900 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 645.
+Total: 2.352100 ms (FindLiveObjects: 0.122100 ms CreateObjectMapping: 0.068800 ms MarkObjects: 2.067600 ms  DeleteObjects: 0.090400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 6.639300 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 3.626200 ms (FindLiveObjects: 0.095100 ms CreateObjectMapping: 0.038600 ms MarkObjects: 3.398000 ms  DeleteObjects: 0.090700 ms)
 
