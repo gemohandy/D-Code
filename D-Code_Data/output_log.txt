@@ -1,0 +1,54 @@
+Initialize engine version: 5.5.4p4 (e92bef0ab5a4)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x80004005)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igxprd32.dll 6.14.10.4926]
+    Renderer: Intel(R) 945G
+    Vendor:   Intel
+    VRAM:     64 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0 ATOC=0 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.121 seconds
+Platform assembly: Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: Z:\Users\Bennett\Documents\Global Game Jam 2018\D-Code_Data\Managed\System.dll (this message is harmless)
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Touch support initialization failed: Call not implemented.
+.
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 3.314100 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: a -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 8.546499 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 1.181700 ms (FindLiveObjects: 0.070100 ms CreateObjectMapping: 0.045000 ms MarkObjects: 0.955300 ms  DeleteObjects: 0.107600 ms)
+
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.585400 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 625.
+Total: 1.795400 ms (FindLiveObjects: 0.076100 ms CreateObjectMapping: 0.048900 ms MarkObjects: 1.597200 ms  DeleteObjects: 0.069000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 5.351300 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 297.
+Total: 1.008600 ms (FindLiveObjects: 0.074400 ms CreateObjectMapping: 0.045700 ms MarkObjects: 0.787700 ms  DeleteObjects: 0.096700 ms)
+

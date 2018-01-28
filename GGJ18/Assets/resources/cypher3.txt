@@ -1,0 +1,1 @@
+Sometimes, you can learn more about a cipher from the most common letters. For example, the letter "e" is really common here, while a more common letter is noticeably absent.

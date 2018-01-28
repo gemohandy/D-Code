@@ -1,0 +1,1 @@
+This cipher is easy - it just switches "z" and "y". Sure, the zebras and yaks might be confused, but you can fix that fairly easily.
