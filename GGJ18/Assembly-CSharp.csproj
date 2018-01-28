@@ -50,6 +50,7 @@
      <Compile Include="Assets\cypherManager.cs" />
      <Compile Include="Assets\manager.cs" />
      <Compile Include="Assets\midline.cs" />
+     <Compile Include="Assets\tutorialAdvance.cs" />
      <None Include="Assets\resources\cypher4.txt" />
      <None Include="Assets\resources\cypher5.txt" />
      <None Include="Assets\resources\DrEvil\drEvil3.txt" />
